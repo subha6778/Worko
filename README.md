@@ -14,9 +14,9 @@ Before you begin, ensure you have the following installed on your system:
 •	npm (Node package manager, typically installed with Node.js)
 •	MongoDB (local or a cloud-based instance)
 Installation
-1.	Clone the Repository
-          git clone https://github.com/yourusername/worko-backend.git
-           cd worko-backend
+1.	Download the project folder(Worko)
+         
+           cd BACKEND
 Dependencies
 Dependencies are the core libraries required for the application to run in production. They include frameworks, libraries for authentication, validation, and more.
 Production Dependencies
